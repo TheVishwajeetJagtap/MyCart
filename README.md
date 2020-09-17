@@ -1,5 +1,5 @@
 # MyCart
-MyCart is python command line interface based E-commerce application.
+MyCart is python command line interface based(CLI) E-commerce application.
 
 
  	MyCart E-commerce app
